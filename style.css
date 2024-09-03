@@ -66,6 +66,7 @@ body {
   background-color: black;
   width: 100%;
   text-align: center;
+	margin: 10px;
 }
 
 h1, h4{
@@ -305,7 +306,7 @@ ul {
   }
   h1, h4 {
     font-size: 3rem;
-	margin: 20px 0;
+	margin: 12px 0;
   }
   .poem {
     width: 98%;
@@ -317,7 +318,6 @@ ul {
     width: 60%;
   }
   .underavatar {
-
     font-size: 18px;
   }
   .time {
